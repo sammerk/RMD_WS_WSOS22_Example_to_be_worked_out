@@ -8,4 +8,4 @@ Die Fragestellung der Frau Trani nachging, war inwiefern die Rezeption verschied
 
 Die zentralen Variablen sind die "Motivation Recup zu nutzen vor der Intervention" (Variablenname: AG04_01; Prompt: "Wie motiviert sind Sie, bei Ihrem nächsten To-Go-Kauf einen RECUP zu verwenden?"; Anker: "1" = "Gar nicht", "2" = "Wenig", "3" = "Etwas", "4" = "Ziemlich", "5" = "Sehr"), die "Motivation Recup zu nutzen nach der Intervention" (Variablenname: AG05_01; Prompt: "Wie motiviert sind Sie, bei Ihrem nächsten To-Go-Kauf einen RECUP zu verwenden?"; Anker: "1" = "Gar nicht", "2" = "Wenig", "3" = "Etwas", "4" = "Ziemlich", "5" = "Sehr") sowie die Intervention (Variablenname: IV05; Ausprägungen "1" = "Park", "2" = "Zimmer", "3" = "Igel", "4" = "Recup"). 
 
-Ihr könnt starten, indem ihr das Projekt in euer lokales RStudio klont (RStudio --> New Project --> Version Control --> Git --> URL: https://github.com/sammerk/RMD_WS_WSOS22_Example_to_be_worked_out).
+Ihr könnt starten, indem ihr das Projekt in euer lokales RStudio klont `RStudio --> New Project --> Version Control --> Git --> URL: https://github.com/sammerk/RMD_WS_WSOS22_Example_to_be_worked_out`.
